@@ -1,0 +1,7 @@
+# IAR build output and local debugger state
+/project/iar/**/Debug_m7_*/
+/project/iar/**/settings/
+/project/iar/**/*.sim
+/project/iar/**/*.dep
+/project/iar/**/*.ewp.bak
+/project/iar/**/*.ewd.bak
